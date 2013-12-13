@@ -13,7 +13,7 @@
                 <input type="password" name="password" id="password" placeholder="Enter any password" />
             </div>
             <div class="inputwrapper animate3 bounceIn">
-                <button name="submit">Sign In2</button>
+                <button name="submit">Sign In</button>
             </div>
             <div class="inputwrapper animate4 bounceIn">
                 <div class="pull-right">Not a member? <a href="registration.html">Sign Up</a></div>
