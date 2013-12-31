@@ -51,6 +51,10 @@ body.loginpage,
 .chatwin h4
 { background-color: #47755e; }
 
+body.loginpage{
+	background: url(../img/background1.jpg);
+	  background-repeat: no-repeat;
+}
 
 
 /* color */

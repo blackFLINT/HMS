@@ -24,7 +24,7 @@
     </div><!--loginpanelinner-->
 </div><!--loginpanel-->
 
-<div class="loginfooter">
+<!--<div class="loginfooter">
     <p>&copy; 2013. Hospital Management System. All Rights Reserved.</p>
-</div>
+</div>-->
 </body>

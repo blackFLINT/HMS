@@ -36,6 +36,7 @@ $cakeDescription = __d('cake_dev', 'Dashboard : Hospital Management System');
 	echo $this->Html->css('responsive-tables');
 
 	/** js inclusion */
+	//echo $this->html->script("forms.js");
 	echo $this->html->script("jquery-1.9.1.min.js");
 	echo $this->html->script("jquery-migrate-1.1.1.min.js");
 	echo $this->html->script("jquery-ui-1.10.3.min.js");
@@ -48,8 +49,11 @@ $cakeDescription = __d('cake_dev', 'Dashboard : Hospital Management System');
 	echo $this->html->script("flot/jquery.flot.resize.min.js");
 	echo $this->html->script("responsive-tables.js");
 	echo $this->html->script("jquery.slimscroll.js");
+	echo $this->html->script("jquery.smartWizard.min.js");
 	echo $this->html->script("custom.js");
-	//echo $this->html->script("forms.js");
+
+	
+	
 
 	echo $this->fetch('meta');
 	echo $this->fetch('css');
